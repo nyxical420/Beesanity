@@ -1,2 +1,2 @@
-# BeesanityMacro
+# Beesanity
 A Bee Swarm Simulator Macro
