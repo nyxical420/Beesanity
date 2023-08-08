@@ -3,7 +3,8 @@
 
 # TODO
 - [ ] Macro Modes
+  - Vision: The macro relies over what it sees. (Recommended for Solo)
+  - Timers: The macro relies solely on Timers. (Recommended for Multi)
 - [ ] Multiple Roblox Macro (with Bloxstrap)
-- [ ] Field Drift Compensation
-- [ ] A way to control the Roblox Player without having it focused
-- [ ] A way to see what's happening without the Roblox Player focused and unfocused
+- [ ] Field Drift Prevention
+- [ ] 
